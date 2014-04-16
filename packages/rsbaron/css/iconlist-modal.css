@@ -1,0 +1,35 @@
+.icons-page {
+	margin: 0 auto -5px;
+	text-align: center;
+	width: 93%;
+}
+.icons-page li {
+	list-style:none;
+	float:left;
+	display:inline-block;
+	margin:6px;
+}
+.icons-page li.last {
+	clear:both;
+}
+.icon-item {
+	cursor:pointer;
+	width:30px;
+	margin:5px;
+}
+.icon-item span {
+	font-size:18px;
+	background:none;
+}
+#icons-pagination {
+	width:95%;
+	margin:0px;
+	text-align:center;
+	border:none;
+}
+#icons-modal {
+	display:none;
+	width:600px;
+	position:absolute;
+	margin:0px;
+}

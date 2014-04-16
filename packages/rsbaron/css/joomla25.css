@@ -1,0 +1,576 @@
+.page-header {
+	border:none;
+}
+/* Menu Second fixes */
+
+ul.autocompleter-choices {
+	margin:0 0 10px 0px
+}
+textarea {
+	width:96%;
+}
+legend {
+	font-size:20px;
+	font-weight:400;
+}
+div#mbox .rs_sel {
+	padding:6px 5px;
+}
+#rsepro_payment .radiobtn {
+	display:inline-block;
+}
+#rsepro_payment  input[type="radio"],
+#rsepro_payment input[type="checkbox"] {
+	margin:0px;
+}
+#map-canvas img, #location_map img {
+	max-width:none;
+}
+.menu {
+	padding: 5px 7px 5px 0px;
+	list-style: none;
+	margin: 0px;
+}
+
+.menu > .divider > .separator {
+	font-weight:400;
+}
+
+.menu > li > .nav-header {
+	font-size: 18px;
+	font-weight: 400;
+}
+.menu > li > a {
+	font-weight:400;
+	color: #000000;
+	font-size: 20px;
+	padding: 5px 0 5px 4px;
+	line-height: 22px;
+	letter-spacing: 0px;
+	display: block;
+	text-decoration: none;
+}
+
+.menu  .nav-inner {
+	padding-left: 10px;
+	list-style: none;
+	margin: 0px;
+	
+}
+.menu .nav-inner > li {
+	padding: 7px 0px 0px 4px;
+}
+.menu .nav-inner > li > a {
+	font-weight:400;
+	color: #bebebe;
+	font-size: 20px;
+	line-height: 22px;
+	text-decoration: none;
+}
+
+
+.rstpl-right-box .menu li, .rstpl-right-box .menu li a{
+	list-style:none;
+	font-size:16px;
+	font-weight:400;
+	border:none;
+}
+/* end Menu Second fixes */
+
+/* Make buttons like "btn" class from bootsrap CSS */
+.button, button, #editor-xtd-buttons > .button2-left, .toggle-editor > .button2-left {
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	font-size:14px;
+	padding:6px 25px 8px 25px;
+	display:inline-block;
+	border:none;
+	position:relative;
+	display:inline-block;
+	margin-bottom:2px;
+	text-shadow:none;
+	font-weight:400;
+}
+
+.button:hover, button {
+	background-position: 0 -15px !important;
+	-webkit-transition: background-position 0.1s linear;
+	-moz-transition: background-position 0.1s linear;
+	-o-transition: background-position 0.1s linear;
+	transition: background-position 0.1s linear;
+}
+#editor-xtd-buttons  {
+	margin-top:10px;
+}
+#editor-xtd-buttons > .button2-left, .toggle-editor > .button2-left {
+	background:#EFEFEF;
+	padding:0 10px;
+	font-size:12px;
+	border:1px solid #DFDFDF;
+}
+#editor-xtd-buttons > .button2-left .readmore {
+	padding:0px;
+	margin:0px;
+	float:none;
+}
+.mce_editable {
+	width:100% !important;
+}
+/* end Make buttons like "btn" class from bootsrap CSS */
+
+/* Calendar buttons fixes */
+.calendar .button {
+	padding: 2px;
+    text-align: center;
+	font-weight:400;
+	color: #000000;
+	cursor: default;
+	font-size: 11px;
+	text-shadow: 0px;
+	display: table-cell;
+	box-shadow: 0px;
+	background-image: none;
+	background-color: inherit;
+}
+.formelm > .calendar {
+	margin: 0 0 18px 3px;
+}
+
+.formelm-buttons {
+	margin:10px 0;
+}
+/* end Calendar buttons fixes */
+#jform_captcha-lbl {
+	width:30%;
+}
+#jform_captcha {
+	margin-left: 30%;
+}
+ /* RSFeedback */
+.rsfe_edit_form ul li div > strong {
+	line-height: 30px;
+}
+.rsfeedback_box a.btn:hover {
+	background-color: transparent !important;
+}
+ /* End RSFeedback */
+ 
+/* Article CSS fixes */
+.rstpl-print-article{
+	margin-right: 10px;
+	text-align: center;
+}
+.hits {
+	margin-right: 10px;
+	text-align: left;
+}
+
+.article-info  {
+	color: #999999;
+}	
+
+#article-index  {
+	float: none;
+	display: table;
+	text-align: center;
+	margin: 5px auto;
+}
+#article-index ul {
+	list-style:none;
+	margin: 0 0 10px 0px;
+}
+
+#article-index ul  li {
+	float: left;
+}
+
+#article-index ul  li > a {
+	display: inline-block;
+	padding: 5px;
+	color: #BEBEBE;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 12px;
+}
+.pagenavcounter {
+	margin-top: 10px;
+}
+
+.pagination {
+	text-align: center;
+	height: auto;
+}	
+
+.pagination ul {
+	border-radius: 0px;
+	box-shadow: none;
+}
+.pagination li {
+	display: inherit;
+}
+.pagination li a {
+	text-decoration: none;
+}
+.rstpl-article-fix > .pagination a {
+	border-style: none;
+	line-height: 11px;
+}
+.rstpl-article-fix > .pagination a:hover {
+	background: none;
+}
+/* Article CSS fixes */
+
+/* contact Form CSS */
+#contact-form input[type="checkbox"]{
+	margin:4px 0 10px 0;
+}
+/* end contact Form CSS */
+
+/* RSMembership CSS */
+#rstpl-com_rsmembership fieldset > legend {
+	border:0px;
+	width:auto;
+	margin-bottom:0px;
+}
+.rsmembership_form select {
+	padding: 5px 6px;
+}
+#rsm_mymembership_container div h1 {
+	border:none;
+}
+.icon-white {
+	color:#ffffff;
+}
+
+/* end RSMembership CSS */
+
+.rs_table tr, .rs_table td {
+	padding:0px;
+}
+/* RSTickets! Pro  */
+#rstpl-com_rsticketspro .mce_editable {
+	width:470px !important;
+}
+#message_tbl {
+	width:470px !important;
+}
+.toggle-editor {
+	height:30px
+}
+.rsticketspro_pagination_limit > #limit {
+	width:auto;
+}
+#rstpl-com_rsticketspro ul {
+	margin:0px;
+}
+#rsticketspro_searchbtn {
+	display:inline-block;
+}
+#rsticketspro_searchinp {
+	width:67%;
+	padding:6px;
+}
+.element-rsinvisible {
+	display:none !important;
+}
+/* end RSTickets! Pro  */	
+
+/* RSComment fix */
+.rsc_comment_container {
+	position: relative;
+}
+.rsc_options > * {
+	margin:0 12px 0 0;
+}
+/* end RSComment fix */
+
+/* RSEvents!Pro fix search */
+#rseprosearch {
+    padding: 5px 6px;
+}
+#searchstring {
+	float:left;
+	padding:5px;
+}
+#rstpl-com_rseventspro  .rs_table [type="checkbox"]{
+	float: left;
+    margin-right: 8px;
+    width: auto;
+}
+
+/* end RSEvents!Pro fix search */
+
+/* single contact */
+.rstpl-box-accordion .accordion-group, .accordion .accordion-group {
+	margin:-1px;
+	border-radius:0px;
+}
+.pane-sliders .panel {
+	font-weight:400;
+	border:1px solid #DFDFDF;
+}
+.pane-sliders .panel .title {
+	padding:10px 25px 10px 50px;
+	font-size:18px;
+}
+.pane-sliders .panel .pane-down{
+	padding:20px 25px 40px 50px !important;
+}
+.pane-sliders .panel .pane-toggler-down {
+	background:url('../images/list-arrow-big.png') no-repeat 25px 27px;
+	color:#000000;
+}
+
+/* end single contact */
+
+/* System Standard Messages */
+#system-message dt.message
+{
+	position:absolute;
+	top:-2000px;
+	left:-3000px;
+}
+
+#system-message dd.message  ul
+{
+	padding: 8px 35px 8px 14px;
+	margin-bottom: 20px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+	background: #DFF0D8 !important;
+	border: 1px solid #DFF0D8;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	color: #468847;
+}
+
+#system-message dd.message ul li{background:none !important}
+
+/* System Error Messages */
+#system-message dt.error
+{
+	position:absolute;
+	top:-2000px;
+	left:-3000px;
+}
+
+#system-message dd.error ul
+{
+	padding: 8px 35px 8px 14px;
+	margin-bottom: 20px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+	background: #F2DEDE !important;
+	border: 1px solid #EED3D7;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	color: #B94A48;
+}
+
+
+
+/* System Notice Messages */
+#system-message dt.notice
+{
+	position:absolute;
+	top:-2000px;
+	left:-3000px;
+}
+
+
+#system-message dd.notice  ul
+{
+	padding: 8px 35px 8px 14px;
+	margin-bottom: 20px;
+	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+	background: #fcf8e3 !important;
+	border: 1px solid #fbeed5;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	color: #c09853;
+}
+#system-message dd.notice ul { margin:10px 0 }
+
+#system-message
+{
+    margin-bottom: 0px;
+    padding: 0;
+}
+
+#system-message dt
+{
+    font-weight: bold;
+}
+
+#system-message dd
+{
+    font-weight: bold;
+    padding: 0;
+}
+#system-message dd ul {
+	list-style:none;
+	margin:10px 0px;
+}
+
+.rstpl-content legend {
+	width:auto;
+	border:none;
+	margin-bottom:0px;
+}
+#rs_event_main fieldset .rs_sel {
+	padding:4px 6px;
+}
+
+.rsepro_search_form .rsepro_search_form_button {
+	background:url("../../../components/com_rseventspro/assets/images/searchicon.png") no-repeat scroll 0 0 transparent !important;
+	left: 6px !important;
+	box-shadow:none !important;
+}
+
+.rsepro_search_form .rs_date .input-small {
+	margin-bottom:0px;
+}
+
+#from_direction {
+	margin-bottom:0px;
+}
+
+.rstpl-content [class*="items-"] h2 {
+	font-size:30px;
+}
+
+#rstpl-com_search .search label {
+	display:inline;
+	margin-right:10px;
+	
+}
+#rstpl-com_search .search input[type="radio"] {
+	margin-top:-4px;
+}
+#rstpl-com_search legend {
+	border-bottom:1px solid #E5E5E5;
+	width:100%;
+	margin-bottom:5px;
+}
+#rstpl-com_search fieldset div {
+	margin:7px 0px;
+}
+#rstpl-com_search fieldset input[type="text"],
+#rstpl-com_search fieldset select {
+	margin-bottom:0px;
+}
+
+#rstpl-com_search .only  label{
+	display:block;
+	float:left;
+	margin-left:5px;
+}
+#rstpl-com_search .only input[type="checkbox"] {
+	display:block;
+	float:left;
+	clear:left;
+}
+
+#contact-slider {
+	width:100%;
+	border-bottom: 1px solid #DDDDDD;
+	display:table;
+}	
+
+#contact-slider dt.tabs {
+	float:left;
+	margin-bottom: -1px;
+}
+#contact-slider dt.tabs h3 {
+	margin:0px 0px 0px 5px;
+}
+#contact-slider dt.tabs h3 a{
+	font-size:14px;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+	border-radius:4px 4px 0 0;
+	line-height:20px;
+	padding:8px 12px;
+	display:block;
+	overflow:hidden;
+}
+#contact-slider dt.open h3 a {
+	border-color:#DDDDDD #DDDDDD #FFFFFF;
+	border-style:solid;
+	border-width:1px;
+	color:#555555;
+	margin-bottom:0px;
+	overflow:hidden;
+}
+#contact-slider dt.closed {
+	margin-top:1px;
+}
+#contact-slider dt.closed h3 a:hover {
+	background:#EEEEEE;
+	border-color:#EEEEEE #EEEEEE #DDDDDD;
+	
+} 
+/* category list */
+.category-list #limit {
+	width:60px;
+}
+.category-list .display-limit {
+	float:right;
+}
+table.category {
+	width:100%;
+	margin-bottom: 20px;
+	border-collapse:separate;
+}
+.actions {
+	float:left;
+	margin-right:8px;
+}
+.actions li{
+	list-style:none;
+}
+.category-list table.category td {
+	padding:8px;
+	background: #F9F9F9;
+}
+
+table.category thead:last-child tr:last-child th:first-child,
+table.category tbody:last-child tr:last-child td:first-child,
+table.category tfoot:last-child tr:last-child td:first-child {
+	border-radius: 0 0 0 4px;
+}
+
+table.category thead:last-child tr:last-child th:last-child,
+table.category tbody:last-child tr:last-child td:last-child,
+table.category tfoot:last-child tr:last-child td:last-child {
+	border-radius: 0 0 4px 0;
+}
+
+table.category tr > th:first-child{
+	border:none !important;
+	border-radius: 4px 0 0 0;
+	
+}
+table.category tr > th:last-child{
+	border-radius: 0 4px 0 0;
+}
+table.category th {
+	text-align:left;
+}
+/* end category list */
+
+/* archive articles */
+.filters #limit {
+	width:auto !important;
+}
+#archive-items {
+ list-style:none;
+ margin:10px auto;
+}
+/* end archive articles */
+
+/* Menu Fix */
+.main-menu .dropdown-menu {
+	padding: 0px !important;
+}

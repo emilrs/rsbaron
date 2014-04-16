@@ -1,0 +1,122 @@
+.rstpl-content .navbar {
+	position: relative; 
+}
+
+.rstpl-content .navbar .nav > li > a.btn > [class^="icon-"],
+.rstpl-content .navbar .nav > li > a.btn > [class*=" icon-"]{
+	opacity:0.8;
+	transition: opacity 0.3s ease-out;
+	-webkit-transition: opacity 0.3s ease-out;
+}
+.rstpl-content .navbar .nav > li > a.btn:hover > [class^="icon-"],
+.rstpl-content .navbar .nav > li > a.btn:hover > [class*=" icon-"],
+.rstpl-content .navbar .nav > li > a.btn:focus > [class^="icon-"],
+.rstpl-content .navbar .nav > li > a.btn:focus > [class*=" icon-"]{
+	opacity:1;
+	transition: opacity 0.3s ease-out;
+	-webkit-transition: opacity 0.3s ease-out;
+}
+
+.rstpl-content .btn-small {
+	font-size:12px;
+	padding:5px 7px
+}
+
+.rstpl-content .rsf_briefcase_name {
+	width:auto;
+}
+
+.input-xxlarge {
+	width:430px !important;
+}
+#adminForm {
+	padding:5px 0px;
+}
+
+.rsf_navbar_template {
+	padding-left:0px !important;
+}
+ul.rsf_navbar_ul > li > a.btn {
+	padding:3px 20px 3px 0px !important;
+	line-height:6px;
+}
+
+ul.rsf_navbar_ul > li > a.btn span {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: inline;
+    font-size: 20px;
+}
+
+.rsf_files tr td a [class^="icon-"]{
+	margin-right:4px;
+}
+.rsf_files tr td .label{
+	font-size: 8px;
+    line-height: 8px;
+    margin-left: 5px;
+    text-transform: uppercase;
+}
+.rstpl-content .breadcrumb {
+	padding:10px 0px;
+	margin:10px 0px;
+}
+
+#rstpl-download-button [class^="icon-"] {
+	margin-right:10px;
+}
+
+#rstpl-com_rsfiles .page-header {
+	margin-bottom:25px;
+}
+#rstpl-rsf-details-left, #rstpl-rsf-details-right {
+	width:49%;
+}
+.rstpl-rsf-det {
+	width:100%;
+	float:left;
+	margin:10px 0px;
+}
+.rstpl-rsf-det [class^="icon-"]{
+	margin-right:5px;
+}
+.rsfiles-layout .navbar-info{
+	margin:0 0 20px 0px;
+}
+.rsf_navbar .nav ul li {
+	margin-right: 5px;
+	border:none;
+}
+.rsf_navbar .nav > ul > li:last-child {
+	margin-right: 0px;
+}
+.rsf_navbar .nav > ul > li:last-child > a {
+	padding:2px 0 !important;
+}
+.rsf_navbar .nav li a{
+	background:none;
+	border:none;
+	box-shadow:none;
+}
+.rsf_navbar .nav.pull-right li a:hover{
+	background:none;
+}
+.icon-delete:before{
+	content: "\e6a8";
+}
+.rsf_briefcase_info {
+	width:100%;
+}
+.rsf_briefcase_info .progress  {
+	margin-bottom:0px;
+	background-image:none;
+}
+/*the big download button*/
+.icon-download  {
+	margin-right:8px;
+}
+/* J 2.5 Fix for RSFiles! Fix */
+.rsfiles-layout .navbar-inner {
+	background:none;
+	border:none;
+	box-shadow:0;
+}

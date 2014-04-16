@@ -1,0 +1,49 @@
+.rstpl-module .formResponsive * {
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box;   
+	box-sizing: border-box;
+}
+
+.rstpl-module .formResponsive .formHorizontal .formControlLabel {
+	width: 22% !important;
+}
+
+.rstpl-module .formResponsive .formHorizontal .formControls {
+	margin-left: 23% !important;
+}
+.rstpl-module .formResponsive .formHorizontal .rsform-block {
+	margin-bottom: 5px !important;
+}
+
+.rstpl-module .formResponsive input[type="text"],
+.rstpl-module .formResponsive input[type="password"],
+.rstpl-module .formResponsive select,
+.rstpl-module .formResponsive textarea {
+	width: 100% !important;
+	max-width: 240px !important;
+}
+.rstpl-module .formResponsive input {
+	border-radius: 0px !important;
+}
+.rstpl-module .formResponsive input[type="text"],
+.rstpl-module .formResponsive input[type="password"],
+.rstpl-module .formResponsive select {
+	 height: 30px !important;
+}
+
+.rstpl-module .formResponsive input:focus,
+.rstpl-module .formResponsive select:focus,
+.rstpl-module .formResponsive textarea:focus{
+	box-shadow:none !important;
+	border-radius:0px !important;
+}
+
+@media screen and (max-width: 1079px) {
+	.rstpl-module .formResponsive .formHorizontal .formControls {
+		margin-left: 0 !important;
+		clear:left;
+	}
+	.rstpl-module .formResponsive .formHorizontal .formControlLabel {
+	  text-align: left !important;
+	}
+}

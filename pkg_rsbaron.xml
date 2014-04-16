@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="2.5">
+	<name>RSBaron!</name>
+	<version>1.0.1</version>
+	<creationDate>May 2014</creationDate>
+	<author>RSJoomla!</author>
+	<authorEmail>supporttickets@rsjoomla.com</authorEmail>
+	<copyright>Copyright (C) 2014 RSJoomla.com - All rights reserved.</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license> 
+	<packagename>rsbaron</packagename>
+	<description>
+		<![CDATA[<style type="text/css">
+.version-history {
+	margin: 0 0 2em 0;
+	padding: 0;
+	list-style-type: none;
+}
+.version-history > li {
+	margin: 0 0 0.5em 0;
+	padding: 0 0 0 4em;
+	text-align:left;
+	font-weight:normal;
+}
+.version-new,
+.version-fixed,
+.version-upgraded {
+	float: left;
+	font-size: 0.8em;
+	margin-left: -4.9em;
+	width: 4.5em;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+
+.version-new {
+	background: #7dc35b;
+}
+.version-fixed {
+	background: #e9a130;
+}
+.version-upgraded {
+	background: #61b3de;
+}
+
+.install-ok {
+	background: #7dc35b;
+	color: #fff;
+	padding: 3px;
+}
+
+.install-not-ok {
+	background: #E9452F;
+	color: #fff;
+	padding: 3px;
+}
+
+#installer-left {
+	float: left;
+	padding: 5px;
+}
+
+#installer-right {
+	float: left;
+}
+
+.tpl-button {
+	display: inline-block;
+	background: #459300 url(../templates/rsbaron/images/bg-button-green.gif) top left repeat-x !important;
+	border: 1px solid #459300 !important;
+	padding: 2px;
+	color: #fff !important;
+	cursor: pointer;
+	margin: 0;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+	text-decoration: none !important;
+}
+.tpl-button:hover {
+	text-decoration: underline !important;
+}
+
+.big-warning {
+	background: #FAF0DB;
+	border: solid 1px #EBC46F;
+	padding: 5px;
+}
+
+.big-warning b {
+	color: red;
+}
+</style>
+
+<div id="installer-left">
+	<img src="../templates/rsbaron/images/rsbaron.png" alt="RSBaron! Prev" />
+</div>
+<div id="installer-right">
+	<h3>RSBaron! Features</h3>
+	<ul class="version-history">
+		<li><span class="version-new">NEW</span> Joomla! 2.5 and 3.x compatibility.</li>
+		<li><span class="version-new">NEW</span> Introducing shortcodes in RSJoomla! templates</li>
+		<li><span class="version-new">NEW</span> K2 and Kunena compatibility</li>
+		<li><span class="version-new">NEW</span> Seamless compatibility with all RSJoomla! components and modules.</li>
+		<li><span class="version-new">NEW</span> Re-arrange module positions by dragging and dropping them to the desired location</li>
+		<li><span class="version-new">NEW</span> Responsive Layout using Bootstrapping.</li>
+		<li><span class="version-new">NEW</span> Over 10 Color Schemes to select from.</li>
+		<li><span class="version-new">NEW</span> Animated menu items effects.</li>
+		<li><span class="version-new">NEW</span> Logo or Site name feature.</li>
+		<li><span class="version-new">NEW</span> Built-in template overrides.</li>
+		<li><span class="version-new">NEW</span> Over 600 Google Fonts to choose from.</li>
+		<li><span class="version-new">NEW</span> Animated Social Links (Facebook, Twitter, LinkedIn, Google+, YouTube, Vimeo, Flickr, Pinterest, Skype and Yahoo).</li>
+		<li><span class="version-new">NEW</span> Easy Favicon replacement.</li>
+	</ul>
+	<a class="tpl-button" href="index.php?option=com_templates">Start using RSBaron!</a>
+	<a class="tpl-button" href="http://www.rsjoomla.com/support/documentation/view-knowledgebase/xxx-rsbaron.html" target="_blank">Read the RSBaron! User Guide</a>
+	<a class="tpl-button" href="http://www.rsjoomla.com/customer-support/tickets.html" target="_blank">Get Support!</a>
+</div>
+<div style="clear: both;"></div>						
+]]>
+	</description>
+	<files folder="packages">
+		<file type="plugin" id="rsbaron" group="editors-xtd">plg_editors-xtd_rstemplate_accordion</file>
+		<file type="plugin" id="rsbaron" group="editors-xtd">plg_editors-xtd_rstemplate_box</file>
+		<file type="plugin" id="rsbaron" group="editors-xtd">plg_editors-xtd_rstemplate_carousel</file>
+		<file type="plugin" id="rsbaron" group="editors-xtd">plg_editors-xtd_rstemplate_tabs</file>
+		<file type="plugin" id="rsbaron" group="system">plg_system_rstemplate</file>
+		<file type="template" id="rsbaron" client="site">rsbaron</file>
+	</files>
+</extension>

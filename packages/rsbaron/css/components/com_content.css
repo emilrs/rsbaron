@@ -1,0 +1,179 @@
+/* Content Aricle CSS */
+.article-info .inner-article {
+	float:left; width:70%
+}
+.article-info .article-img {
+	float:left; width:20px; max-width:150px;
+}
+
+.rstpl-print-article{
+	display:inline;
+}
+
+.page-header {
+	border-bottom: none;
+	padding-bottom: 0px;
+}
+
+.page-header h2 {
+	font-weight: 400;
+	font-size: 30px;
+}
+.page-header h2 > a:hover {
+	text-decoration: none;
+}
+.rstpl-structure-article{
+	margin: 3px 0 7px 0;
+	overflow: hidden;
+}
+.rstpl-print-article a:hover {
+	text-decoration: none;
+}
+.rstpl-structure-article > dd {
+	float: left;
+}
+.rstpl-just-print > ul {
+	list-style: none;
+}
+.rstpl-just-print > ul > li {
+	float: left;
+	margin: 0px 2px 0 2px;
+}
+.rstpl-just-print > ul > li > a:hover {
+	text-decoration: none;
+}
+/* Content Aricle CSS */
+
+/* Article css overwrite */
+.article-info {
+	font-size: 12px;
+	height: auto;
+	line-height: 14px;
+	margin-bottom: 3px;
+	margin-top: 0;
+	overflow: hidden;
+	width:100%;
+}
+.article-info > dl {
+	margin-top: 0px;
+}
+.article-info [class^="icon-"], 
+.article-info [class*=" icon-"] {
+	margin-top: 0px;
+}
+.rstpl-article-pagination {
+	overflow: hidden;
+}
+.rstpl-article-pagination > .article-index {
+	float: none;
+	display: table;
+	text-align: center;
+	margin: 0 auto;
+}
+.rstpl-article-pagination  .nav > .toclink{
+	text-align: center;
+}
+.rstpl-article-pagination  .nav {
+	margin-bottom: 5px;
+}
+.rstpl-article-pagination  .nav > li {
+	float: left;
+	border-radius: 0px;
+	line-height: 12px;
+}
+.rstpl-article-pagination  .nav-stacked > li:first-child > a,
+.rstpl-article-pagination  .nav-stacked > li:last-child > a {
+	border-radius: 0px;
+}
+.rstpl-article-pagination  .nav > li > a {
+	font-size: 12px;
+	font-weight: bold;
+	padding: 3px 10px;
+}
+.rstpl-article-pagination  .nav > li > a {
+	border: none;
+}
+.rstpl-article-pagination  .nav > li > a:hover,
+.rstpl-article-pagination  .nav > li > .active {
+	background: none;
+	border-width: 0px;
+}
+.pager li > a, .pager li > span {
+	border-radius:0px;
+	font-size:14px;
+	font-weight:bold;
+}
+
+/* End Article css overwrite */
+
+.categories-list > div{
+	width:45%;
+	margin-right:5%;
+	float:left;
+	padding:5px 0;
+}
+.categories-list .category-desc, .categories-list > div > div {
+	width:100%;
+	margin-right:5%;
+}
+ .categories-list > div > div  {
+	padding-left:10px;
+	width:100%;
+ }
+
+
+.rstpl-article-intro-image {
+	margin-bottom:20px;
+	max-width:100%;
+	height:auto;
+}
+.rstpl-article-container .rstpl-article-intro-image > img{
+	padding:8px;
+	border:1px solid;
+	width:100%
+}
+.rstpl-article-container .article-info dt, .rstpl-article-container .article-info dd{
+	float:left;
+	margin-right:5px;
+}
+.rstpl-article-container .article-info dd {
+	float: left;
+	height: 22px;
+	margin-right: 10px;
+}
+.readmore {
+	float:left;
+	margin:20px 0px
+}
+.filter-search {
+	padding:2%;
+}
+#rstpl-filter-btn {
+	font-size: 14px;
+	line-height: 2px;
+}
+.item-page .item-image, .item .rstpl-article-intro-image, .items-leading div .rstpl-article-intro-image {
+	border: 1px solid;
+    padding: 10px;
+    width: auto;
+	margin:8px 8px 8px 0;
+}
+
+.rstpl-archive-metas dd{
+	float:left;
+	width:auto;
+	margin-right:10px;
+}
+.rstpl-archive-metas dd [class^="icon"]{
+	margin-top:2px;
+	margin-right:3px;
+}
+#archive-items > div{
+	margin-bottom:30px;
+}
+.rstpl-category-item .item-title .btn-small{
+	margin-top:8px;
+}
+#rstpl-com_content .blog .items-row {
+	margin-bottom:30px;
+}

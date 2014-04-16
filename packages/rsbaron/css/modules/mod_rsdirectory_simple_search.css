@@ -1,0 +1,30 @@
+.rsdir-mod-simple-search div.btn {
+	height:auto !important;
+}
+.rsdir-mod-simple-search .dropdown-menu {
+	width:100%;
+	border-radius: 0px;
+	margin-top: 0px;
+}
+.rstpl-right-box .rsdir-mod-simple-search .input-large{
+	width:95%;
+}
+.rstpl-right-box .rsdir-mod-simple-search .btn-group, .rstpl-right-box .rsdir-mod-simple-search .dropdown-toggle{
+	width:100%;
+	border-radius:4px !important;
+	
+}
+.rstpl-right-box .rsdir-mod-simple-search{
+	margin:0px;
+}
+
+.rstpl-right-box .rsdir-mod-simple-search div.input-prepend  > *{
+	border-radius:4px !important;
+	margin-bottom:10px;
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+	.rsdir-mod-simple-search .input-prepend .dropdown-toggle {
+		padding:8px 0px;
+	}
+}

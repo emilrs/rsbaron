@@ -1,0 +1,11 @@
+.rsdir-range-from{
+	padding:8px 10px;
+}
+.rsdir-range-filter input{
+	height:auto;
+}
+@media (max-width: 767px) {
+	.rsdir-top-rated-entry .thumbnail {
+		max-width:100% !important;
+	}
+}

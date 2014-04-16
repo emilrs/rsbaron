@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<order>6</order>
+	<item>
+		<original_filename>mainslider1.jpg</original_filename>
+		<title>mainslider1</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:1170;i:1;i:520;i:2;i:2;i:3;s:25:"width="1170" height="520"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";i:77;s:2:"y1";i:0;s:2:"x2";i:302;s:2:"y2";i:168;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.324786324786324798186143425482441671192646026611328125;}s:7:"filters";s:0:"";}]]></params>
+		<tag>slideshow</tag>
+	</item>
+	<item>
+		<original_filename>mainslider2.jpg</original_filename>
+		<title>mainslider2</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:1170;i:1;i:520;i:2;i:2;i:3;s:25:"width="1170" height="520"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";i:77;s:2:"y1";i:0;s:2:"x2";i:302;s:2:"y2";i:168;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.324786324786324798186143425482441671192646026611328125;}s:7:"filters";s:0:"";}]]></params>
+		<tag>slideshow</tag>
+	</item>
+	<item>
+		<original_filename>mainslider3.jpg</original_filename>
+		<title>mainslider3</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:1170;i:1;i:520;i:2;i:2;i:3;s:25:"width="1170" height="520"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";d:77;s:2:"y1";d:0;s:2:"x2";d:302;s:2:"y2";d:169;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.324786324786324798186143425482441671192646026611328125;}s:7:"filters";s:0:"";}]]></params>
+		<tag>slideshow</tag>
+	</item>
+	<item>
+		<original_filename>800x600-1.jpg</original_filename>
+		<title>SMS Campaign</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:800;i:1;i:533;i:2;i:2;i:3;s:24:"width="800" height="533"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";i:21;s:2:"y1";i:0;s:2:"x2";i:359;s:2:"y2";i:253;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.47499999999999997779553950749686919152736663818359375;}s:7:"filters";s:0:"";}]]></params>
+		<tag>Marketing</tag>
+	</item>
+	<item>
+		<original_filename>800x600-2.jpg</original_filename>
+		<title>Logo Design</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:800;i:1;i:533;i:2;i:2;i:3;s:24:"width="800" height="533"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";i:21;s:2:"y1";i:0;s:2:"x2";i:359;s:2:"y2";i:253;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.47499999999999997779553950749686919152736663818359375;}s:7:"filters";s:0:"";}]]></params>
+		<tag>Design</tag>
+	</item>
+	<item>
+		<original_filename>800x600-3.jpg</original_filename>
+		<title>Print Design</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:800;i:1;i:600;i:2;i:2;i:3;s:24:"width="800" height="600"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";i:0;s:2:"y1";i:0;s:2:"x2";i:380;s:2:"y2";i:285;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.47499999999999997779553950749686919152736663818359375;}s:7:"filters";s:0:"";}]]></params>
+		<tag>Marketing</tag>
+	</item>
+	<item>
+		<original_filename>800x600-4.jpg</original_filename>
+		<title>Panoramic Design</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:800;i:1;i:600;i:2;i:2;i:3;s:24:"width="800" height="600"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";i:0;s:2:"y1";i:0;s:2:"x2";i:380;s:2:"y2";i:285;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.47499999999999997779553950749686919152736663818359375;}s:7:"filters";s:0:"";}]]></params>
+		<tag>Design</tag>
+	</item>
+	<item>
+		<original_filename>800x600-5.jpg</original_filename>
+		<title>Wall Billboard Ads</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:800;i:1;i:533;i:2;i:2;i:3;s:24:"width="800" height="533"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";i:21;s:2:"y1";i:0;s:2:"x2";i:359;s:2:"y2";i:253;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.47499999999999997779553950749686919152736663818359375;}s:7:"filters";s:0:"";}]]></params>
+		<tag>Marketing</tag>
+	</item>
+	<item>
+		<original_filename>800x600-6.jpg</original_filename>
+		<title>Motion Graphics</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:800;i:1;i:533;i:2;i:2;i:3;s:24:"width="800" height="533"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";i:21;s:2:"y1";i:0;s:2:"x2";i:359;s:2:"y2";i:253;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.47499999999999997779553950749686919152736663818359375;}s:7:"filters";s:0:"";}]]></params>
+		<tag>Design</tag>
+	</item>
+	<item>
+		<original_filename>800x600-7.jpg</original_filename>
+		<title>Mobile App</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:800;i:1;i:533;i:2;i:2;i:3;s:24:"width="800" height="533"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";i:21;s:2:"y1";i:0;s:2:"x2";i:359;s:2:"y2";i:253;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.47499999999999997779553950749686919152736663818359375;}s:7:"filters";s:0:"";}]]></params>
+		<tag>Apps</tag>
+	</item>
+	<item>
+		<original_filename>800x600-8.jpg</original_filename>
+		<title>Content Writing</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:800;i:1;i:600;i:2;i:2;i:3;s:24:"width="800" height="600"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";i:0;s:2:"y1";i:0;s:2:"x2";i:380;s:2:"y2";i:285;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.47499999999999997779553950749686919152736663818359375;}s:7:"filters";s:0:"";}]]></params>
+		<tag>Marketing</tag>
+	</item>
+	<item>
+		<original_filename>800x600-9.jpg</original_filename>
+		<title>Navigation App</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:800;i:1;i:600;i:2;i:2;i:3;s:24:"width="800" height="600"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";i:0;s:2:"y1";i:0;s:2:"x2";i:380;s:2:"y2";i:285;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.47499999999999997779553950749686919152736663818359375;}s:7:"filters";s:0:"";}]]></params>
+		<tag>Apps</tag>
+	</item>
+	<item>
+		<original_filename>800x600-10.jpg</original_filename>
+		<title>Lamp Logo</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:800;i:1;i:600;i:2;i:2;i:3;s:24:"width="800" height="600"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";i:0;s:2:"y1";i:0;s:2:"x2";i:380;s:2:"y2";i:285;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.47499999999999997779553950749686919152736663818359375;}s:7:"filters";s:0:"";}]]></params>
+		<tag>Design</tag>
+	</item>
+	<item>
+		<original_filename>800x600-11.jpg</original_filename>
+		<title>Posters</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:800;i:1;i:600;i:2;i:2;i:3;s:24:"width="800" height="600"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";i:0;s:2:"y1";i:0;s:2:"x2";i:380;s:2:"y2";i:285;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.47499999999999997779553950749686919152736663818359375;}s:7:"filters";s:0:"";}]]></params>
+		<tag>Design</tag>
+	</item>
+	<item>
+		<original_filename>800x600-12.jpg</original_filename>
+		<title>Social Campaign</title>
+		<description></description>
+		<params><![CDATA[a:4:{s:4:"info";a:7:{i:0;i:800;i:1;i:600;i:2;i:2;i:3;s:24:"width="800" height="600"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}s:9:"selection";a:4:{s:2:"x1";i:0;s:2:"y1";i:0;s:2:"x2";i:380;s:2:"y2";i:285;}s:11:"admin_thumb";a:3:{s:1:"w";i:280;s:1:"h";i:210;s:5:"ratio";d:0.47499999999999997779553950749686919152736663818359375;}s:7:"filters";s:0:"";}]]></params>
+		<tag>Marketing</tag>
+	</item>
+
+
+	
+	
+</items>

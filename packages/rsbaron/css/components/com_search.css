@@ -1,0 +1,50 @@
+#rstpl-com_search .checkbox, #rstpl-com_search .radio{
+	display:block;
+	float:left;
+	padding:2px 0 0 0;
+	margin:0 15px 0 0;
+}
+#rstpl-com_search #searchForm #search-searchword{
+	padding:6px;
+}
+#rstpl-com_search #searchForm legend{
+	border:none;
+	margin-bottom:10px;
+}
+#rstpl-com_search #searchForm fieldset{
+	margin:20px 0;
+}
+#rstpl-com_search .form-limit{
+	text-align:right;
+	display:block;
+}
+#rstpl-com_search .search-results .result-title{
+	font-size:22px;
+	margin-bottom:10px;
+}
+#rstpl-com_search .search-results .result-category{
+	background-color: #999999;
+	color: #FFFFFF;
+	display: inline-block;
+	font-size: 11.844px;
+	font-weight: bold;
+	padding: 0 4px 2px 4px;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	vertical-align: baseline;
+	white-space: nowrap;
+	border-radius: 4px;
+	margin-right:10px;
+	margin-bottom:10px;
+}
+#rstpl-com_search .search-results .result-text{
+	margin:12px 0;
+}
+#rstpl-com_search .search-results .result-text .highlight{
+	border:none;
+	background:#4f4f4f;
+	color:#ffffff;
+}
+#rstpl-com_search .search-results .result-created{
+	margin-bottom:30px;
+
+}

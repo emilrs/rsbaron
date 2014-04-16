@@ -1,0 +1,55 @@
+img.rsm_thumb {
+	margin:30px 0px !important;
+}
+#rsm_membership_form {margin-top:20px}
+#rsm_membership_form img.rsm_thumb{
+	margin:10px 30px 30px 0px !important;
+}
+h2.rsm_title a, h2.rsm_title  {
+	margin:0;
+	line-height:120%;
+	font-weight:700;
+	font-size:24px;
+}
+h2.rsm_title small{
+	font-weight:bold;
+	font-size:17px !important;
+}
+
+#rstpl-com_rsmembership .item-page{
+	margin-bottom:30px;
+}
+#rstpl-com_rsmembership .page-header{
+	margin:0 0 15px 0;
+}
+#rsme_membership_info div div .btn {
+	display:inline;
+	float:none;
+}
+.rsme_extra_container div div > a.rsme_extra_btn {
+	display:inline-block !important;
+	line-height:22px;
+}
+.thumbnail {
+	border-radius:0px;
+}
+input[id^="payment"] {
+	margin-right:5px;
+}
+#rsm_subscribe_login_form .btn{
+	float:right;
+}
+
+#rstpl-com_rsmembership .rsmembership_form fieldset, #rstpl-com_rsmembership .rsmembership_form input.rsm_textbox, #rstpl-com_rsmembership .rsmembership_form select {
+	background:none;
+}
+#rstpl-com_rsmembership .rsmembership_form input.rsm_textbox, #rstpl-com_rsmembership .rsmembership_form select{
+	padding:5px;
+}
+#rstpl-com_rsmembership .page-header h1 {
+	margin-bottom:30px;
+}
+#rstpl-com_rsmembership .form-actions {
+	background:none;
+	border:none;
+}

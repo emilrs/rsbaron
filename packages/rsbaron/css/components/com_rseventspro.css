@@ -1,0 +1,256 @@
+/* Calendar View Css */
+/* Filters */
+.rs_select_top:nth-child(3){
+	float:right;
+	width:50%;
+	margin-right:0px;
+}
+.elSelect {
+	height:auto;
+	padding:5px;	
+}
+#rseprosearch, .rs_search_button {
+	height:auto;
+	width:85%;
+	padding:8px;
+}
+.rs_search_button {
+	border-radius:5px;
+	height:35px;
+	width:35px;
+	margin-left:3px;
+	border:none;
+}
+#rstpl-com_rseventspro #search_btn {
+	display:inline-block;
+	height:20px;
+	background-image:none;
+}
+#rstpl-com_rseventspro #search_btn:before {
+	content:"\e67f";
+	color:#f8f8f8;
+	font-family:"IcoMoon";
+	font-size:17px;
+}
+/* End Filters */
+
+/* Calendar Table */
+a.rs_calendar_arrows{
+	padding:0px 20px;
+	font-size:38px;
+	border-left:1px solid;
+	border-right:1px solid;
+}
+table.rs_calendar_component td.has-events .rs_calendar_events  {
+	width:100%;
+	height:20px;
+}
+table.rs_calendar_component td.has-events a.rsttip {
+	padding:0px 0px 0px 20px; 
+	margin:0px;
+	line-height:20px;
+}
+table.rs_calendar_component td span.rs_calendar_date {
+	border-bottom:1px solid !important;
+}
+
+#rs_calendar_component table.rs_calendar_component td.has-events a.rsttip:hover, #rs_calendar_component table.rs_calendar_component td.has-events a.rsttip:focus, #rs_calendar_component table.rs_calendar_component td.has-events a.rsttip:active {
+	margin:0px;
+}
+
+#cloneevent, #cloneevent:hover {
+	font-weight:400;
+	padding:0px 5px 5px 20px;
+	font-size:16px;
+}
+#cloneevent:hover{
+	background-position: 2px 5px !important;
+	font-weight:700;
+}
+/* End Calendar Table */
+/* Events Day List */
+
+.rstpl-calendar-heading {
+	margin-bottom:30px;
+}
+
+.rs_events_container > li {
+	margin:0 0 25px 0;
+	padding:0 0 25px 0 !important;
+}
+
+.rs_events_container > li > .rs_event_titles h3 > span > a {
+	font-weight:700;
+}
+#rs_events_container li .rs_event_titles {
+	margin:0 0 30px 0;
+}
+
+.rs_event_details span {
+	display:inline	
+}
+.rs_event_detail {
+	box-shadow:none;
+}
+.rs_event_details_list li b {
+	display: inline-block;
+    text-align: right;
+    width: 80px;
+}
+.rs_event_image  {
+	border:1px solid;
+	margin-right: 8px;
+	padding:0px;
+	position:relative;
+}
+.rs_event_image img, .rs_event_image [class^="icon-"] {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+	border-radius: 0;
+	display: block;
+	float: left;
+	font-size: 60px;
+	height: auto;
+	width: 80px;
+	margin:12px;
+}
+.rs_event_image [class^="icon-"]{
+	margin:30px 32px;
+}
+#rstpl_detail_image{
+	margin-right:0px;
+}
+.rs_event_details a:hover{
+	text-decoration:underline;
+}
+.rs_event_details .rs_event_link:hover{
+	text-decoration:none;
+}
+/* End Events Day List */
+
+/* Events Category List */
+.rs_rss {
+  text-align: right !important;
+  width: 100%;
+  margin:0 0 10px 0;
+}
+.rs_options {
+	margin-top:45px;
+	margin-right:5px;
+}
+.rs_event_details {
+	width:75%;
+	margin-left:2%;
+	float:left;
+}
+.rs_event_detail .rs_event_details [itemprop="name"] {
+	margin:0 0 10px 0;
+	font-weight:700;
+	font-size:22px;
+	line-height:24px;
+}
+.rs_event_detail .rs_event_details span {
+	font-size:14px;
+	width:100%;
+	float:left;
+	margin:1px 0px;
+}
+.rs_event_detail .rs_event_details span.rstpl_detail_date strong {
+	display:block;
+	float:left;
+	margin-right:10px;
+}
+.rs_event_detail .rs_event_details span [class^="icon-"] {
+	width:20px;
+	display:block;
+	float:left;
+	cursor:default;
+	margin-top:3px;
+}
+ul#rs_filters li a.rsepro_close {
+	margin-top:6px;
+	width:11px;
+}
+/* End Events Category List */
+
+/* Event Detail Page */
+#rs_event_show {
+	margin:0px;
+}
+.rs_featured_event {
+	border-radius:0px;
+	line-height:30px;
+	padding:10px;
+}
+#rs_event_show h1, #rstpl-com_rseventspro h1 {
+	margin:0 0 30px 0;
+	font-size:30px;
+}
+.rs_controls {
+	float:right;
+	width:100%;
+}
+.rs_controls a.btn{
+	text-align:center;
+}
+#rsep_admin_option span, .rs_controls  a.btn span {
+	margin-right:5px;
+}
+#rsep_admin_options li a{
+	padding: 5px auto;
+	font-size:14px;
+}
+.rsep_date a {
+	margin-left:5px;
+}
+.rsep_date_label{
+	font-weight:bold;
+}
+.rsep_contact_block p, .rsep_taxonomy_block p{
+	background:none;
+	padding-left:0px !important;
+	margin: 0 0 15px 0 !important;
+}
+.rsep_contact_block p [class^="icon-"], .rsep_taxonomy_block p [class^="icon-"] {
+	margin-right:10px !important;
+	display:block;
+	float:left;
+}
+.rsep_contact_block, .rsep_taxonomy_block {
+	width:36%;
+	float:left;
+}
+
+[itemprop="description"], #map-canvas {
+	margin:30px 0px;
+}
+.rs_files, .rs_av_tickets {
+	margin-left:0px !important;
+}
+.rs_event_repeats {
+	top:1px;
+	right:4px;
+}
+#rs_event_main fieldset .rs_check {
+	margin:0 10px 0 0 ;
+}
+a.rsep_join, a.rsep_invite, a.rsep_unsubscribe, a.rsep_edit, a.rsep_flag, a#rsep_admin_option {
+	border:none;
+}
+div#mbox label {
+	margin:10px 0px;
+}
+.rsep_export {
+	font-size:14px;
+}
+/* End Event Detail Page */
+/* Locations */
+div.rs_block {
+	padding:0px;
+	background:none;
+	border:none;
+	box-shadow:0px 0px 0px rgba(0, 0, 0, 0);
+}
+div.rs_block .rs_options {
+	margin-top:0px;
+}
+/* End Locations */

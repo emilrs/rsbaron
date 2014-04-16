@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5.0" type="plugin" group="editors-xtd" method="upgrade">
+	<name>plg_editors-xtd_rstemplate_box</name>
+	<author>RSJoomla!</author>
+	<creationDate>March 2014</creationDate>
+	<copyright>(C) 2014 www.rsjoomla.com</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license> 
+	<authorEmail>supporttickets@rsjoomla.com</authorEmail>
+	<authorUrl>www.rsjoomla.com</authorUrl>
+	<version>1.0.0</version>
+	<description>PLG_EDITORS-XTD_RSTEMPLATE_BOX_XML_PLUGIN_DESCRIPTION</description>
+	<files>
+		<filename plugin="rstemplate_box">rstemplate_box.php</filename>
+		<filename>index.html</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">language/en-GB/en-GB.plg_editors-xtd_rstemplate_box.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.plg_editors-xtd_rstemplate_box.sys.ini</language>
+	</languages>
+</extension>

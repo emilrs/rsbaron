@@ -1,0 +1,89 @@
+#Kunena td, #Kunena table, #Kunena th, #Kunena div, #Kunena p, #Kunena span {
+	font-weight:400;
+}
+#rstpl-com_kunena #Kunena  #ktab a span {
+	font-size:14px;
+	font-weight:400;
+}
+#ktopmenu #ktab .menu li a {
+	border-radius:0px;
+}
+#rstpl-com_kunena #Kunena  .kblock div.kheader{
+	padding:20px;
+}
+#rstpl-com_kunena #Kunena  .kblock div.kheader h2, #rstpl-com_kunena #Kunena  .kblock div.kheader h2 span a {
+	font-size:22px;
+}
+#rstpl-com_kunena #Kunena  .kblock div.kheader h2, #rstpl-com_kunena #Kunena  .kblock div.kheader h2 span a:hover {
+	text-decoration:none;
+}
+#rstpl-com_kunena #Kunena  tr.krow2 td {
+  padding: 20px 10px;
+}
+#rstpl-com_kunena #Kunena tr td.kprofile-left {
+	background-color:#ffffff;
+}
+#rstpl-com_kunena #Kunena .kicon-button{
+	background-image:none !important;
+	background-color:#DEDEDE !important;
+}
+#rstpl-com_kunena #Kunena .kicon-button:hover, #rstpl-com_kunena #Kunena .kicon-button:hover span{
+	text-decoration:none;
+}
+#rstpl-com_kunena #Kunena .kicon-button span{
+	background-color:none !important;
+	color:#333333;
+}
+#rstpl-com_kunena #Kunena .kicon-button span span{
+	padding:0px;
+}
+#rstpl-com_kunena #Kunena div.kmessage-editmarkup-cover {
+	padding:10px 0px;
+	border:none;
+}
+#rstpl-com_kunena #Kunena .klist-actions td {
+  border: medium none;
+  padding: 10px;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+#rstpl-com_kunena #Kunena #kpost-buttons, #rstpl-com_kunena #Kunena #advsearch .kcenter {
+	padding:20px;
+}
+#rstpl-com_kunena #Kunena tr.krow1 td {
+	background-color:#F8F8F8;
+}
+#rstpl-com_kunena #Kunena div.kblock {
+	margin-bottom:30px;
+}
+#rstpl-com_kunena #Kunena .kicon-button, #rstpl-com_kunena #Kunena .kbutton {
+	-moz-border-bottom-colors: none !important;
+	-moz-border-left-colors: none  !important;
+	-moz-border-right-colors: none !important;
+	-moz-border-top-colors: none !important;
+	background-color: #F5F5F5 !important;
+	border-radius: 4px !important;
+	border:none !important;
+	color: #333333 !important;
+	cursor: pointer !important;
+	display: inline-block !important;
+	font-size: 14px !important;
+	line-height: 20px !important;
+	margin: 0 5px !important;
+	padding:6px 25px 8px 25px !important;
+	text-align: center !important;
+	text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75) !important;
+	vertical-align: middle !important;
+	box-shadow:0 -3px rgba(0,0,0, 0.15) inset !important;
+}
+#rstpl-com_kunena #Kunena .kicon-button:hover,#rstpl-com_kunena #Kunena .kbutton:hover{
+	background-color: #F5F5F5 !important;
+	box-shadow:0 -2px rgba(0,0,0, 0.15) inset !important;
+}
+#rstpl-com_kunena #Kunena  table tr td.kauthor p  {
+	text-align:center;
+	margin:15px 0 15px 0;
+}
+#Kunena div.kmessage-buttons-row {
+	height:auto;
+}

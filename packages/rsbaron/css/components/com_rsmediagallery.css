@@ -1,0 +1,83 @@
+#rstpl-com_rsmediagallery h2{
+	margin-bottom:20px;
+}
+.rsmg_item_container:hover img {
+	opacity:0.2 !important;
+}
+.rsmg_lightbox {
+	display: block;
+    overflow: hidden;
+    position: relative;
+}
+
+.rsmg_item_container:hover .rsmg_lightbox:after{
+	font-family: 'IcoMoon';
+	content: "\e67f";
+	font-size:40px;
+	margin: 0 auto;
+	position: absolute;
+	top: 42%;
+	width: 100%;
+	display:block;
+	background:none;
+}
+
+.rsmg_lightbox:hover [class^="icon-"] {
+	display:block;
+}
+
+ul#rsmg_gallery li div.rsmg_item_container, #rsmg_albums li div.rsmg_album_container{
+	box-shadow:none;
+	border-radius:0px;
+}
+ul#rsmg_gallery li div.rsmg_item_container .rsmg_title, #rsmg_albums li div.rsmg_album_container a.rsmg_title {
+	font-weight:300;
+	font-size:14px;
+	border: none;
+	margin:0px;
+}
+
+#lightbox-container-image-data-box {
+	width:820px !important;
+}
+div#rsmg_image_container {
+	box-shadow:none;
+	border-radius:0px;
+}
+#jquery-lightbox h2.rsmg_title, div#rsmg_image_container h2.rsmg_title {
+	text-align:left;
+	font-size:16px;
+	margin-bottom:25px;
+}
+#jquery-lightbox p.rsmg_tags, div#rsmg_image_container p.rsmg_tags{
+	margin-top:25px;
+}
+#lightbox-nav-btnPrev, #lightbox-nav-btnNext {
+	box-shadow:none;
+	border:none;
+	border-radius:0;
+	padding:20px;
+}
+#rsmg_image_container {
+	margin-top:30px;
+	border-radius:0px;
+	box-shadow:none;
+}
+div#rsmg_main ul#rsmg_gallery_filters {
+	margin:0 10px 20px 0;
+}
+div#rsmg_main ul#rsmg_gallery_filters li {
+	text-shadow:none;
+	padding:5px 14px;
+}
+/* Resolution Fixes */
+
+/* Phone vertical*/
+
+@media (max-width: 767px) {
+	ul#rsmg_gallery li div {
+		width:100% !important;
+	}
+}
+
+

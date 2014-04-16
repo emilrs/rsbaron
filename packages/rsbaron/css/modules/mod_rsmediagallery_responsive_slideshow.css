@@ -1,0 +1,75 @@
+.rstpl-slideshow-position .rscarousel{
+	margin:0px;
+}
+
+.rstpl-slideshow-position .rscarousel .carousel-inner .item div {
+	position:relative;
+}
+.rstpl-slideshow-position .rscarousel .carousel-inner .item div .container {
+	width:100%;
+	height:100%;
+	float:left;
+	position:absolute;
+	z-index:100;
+	top:0px;
+	left:0px;
+	background: -moz-linear-gradient(left, rgba(255,255,255,0.95) 30%, rgba(255,255,255,0) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, right top, color-stop(30%,rgba(255,255,255,0.95)), color-stop(100%,rgba(255,255,255,0))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(left, rgba(255,255,255,0.95) 30%,rgba(255,255,255,0) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(left, rgba(255,255,255,0.95) 30%,rgba(255,255,255,0) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(left, rgba(255,255,255,0.95) 30%,rgba(255,255,255,0) 100%); /* IE10+ */
+	background: linear-gradient(to right, rgba(255,255,255,0.95) 30%,rgba(255,255,255,0) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=1 ); /* IE6-9 */
+}
+.rstpl-slideshow-position .carousel-caption {
+	background:none;
+	width:40%;
+	padding:3em;
+}
+.rstpl-slideshow-position .carousel-caption h1, .rstpl-slideshow-position .carousel-caption h2, .rstpl-slideshow-position  .carousel-caption h3, .rstpl-slideshow-position .carousel-caption h4, .rstpl-slideshow-position .carousel-caption h5 {
+	color:#000000;
+	text-align:left;
+	margin-bottom:1em;
+}
+
+.rstpl-slideshow-position .carousel-caption p {
+	color:#000000;
+	text-align:left;
+	line-height:1.1em;
+}
+.rstpl-slideshow-position .carousel-control, .rstpl-slideshow-position .carousel-control:hover,.rstpl-slideshow-position .carousel-control:focus,.rstpl-slideshow-position .carousel-control:active  {
+	opacity:1;
+	color:#000;
+	line-height:25px;
+	border:none;
+	background:none;
+	color:transparent;
+	margin:0px;
+	border-radius:0px;
+}
+.rstpl-slideshow-position .carousel-control.right:before, .rstpl-slideshow-position .carousel-control.left:before{
+	border-radius:2px;
+	border:2px solid #000000;
+	background:#ffffff;
+	content:"\f107";
+	font-family:IcoMoon;
+	color:#A6CE39;
+	font-size:36px;
+	padding:8px;
+	text-align:center;
+	z-index:103;
+	position:absolute;
+	font-weight:700;
+}
+.rstpl-slideshow-position .carousel-control.right:before{
+	content:"\f106";
+	line-height: 20px;
+	padding-bottom: 13px;
+}
+.rstpl-slideshow-position .carousel-control.left, .rstpl-slideshow-position .carousel-control.right{
+	left:auto;
+	right:45px;
+}
+.rstpl-slideshow-position .carousel-control.left {
+	top:50%;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<order>3</order>
+	<item>
+		<menutype>rsmainmenu</menutype>
+		<title>RSBaron! Main Menu</title>
+		<description><![CDATA[The Sample data main menu built for RSBaron! Template ]]></description>
+	</item>
+	<item>
+		<menutype>browse</menutype>
+		<title>RSBaron! Browse Menu</title>
+		<description><![CDATA[The browse menu is placed on the right column of RSBaron! Template]]></description>
+	</item>
+</items>

@@ -1,0 +1,21 @@
+.rs_inner-sortable {overflow: hidden !important; width:650px; margin:5px auto;}
+#rs_sortable {  display: inline-block; margin: 0 auto; position:static;overflow:  auto ;}
+#rs_sortable li { color:#4f4f4f;border: 1px solid #4f4f4f;float: left;font-size: 12px;font-weight: bold;list-style: none outside none;margin: 2px 0;text-align: center;text-transform: uppercase;width: 99%;cursor:move;display:block; background-color:#F8F8F8; }
+.ui-sortable-helper {background-color:#77D5EF !important; color:#ffffff !important; border:1px solid #0096BF;}
+#rs_sortable li [class^="span"]:first-child { border:0px; }
+#rs_sortable li [class^="span"] { border-left:1px solid #4f4f4f;}
+#rs_sortable li div { padding:10px 0; }
+#rs_sortable li.all-content {height:238px;padding:0px;}
+#rs_sortable li.all-content div{ width:25%;height:218px; float:left;border-right:1px solid #4f4f4f;}
+#rs_sortable li.all-content > div:first-child, #rs_sortable li.all-content > div:last-child {line-height:210px;}
+#rs_sortable li.all-content div:last-child{ border-right:none;}
+#rs_sortable li.all-content div:nth-child(2){ width:49%; height:218px;}
+#rs_sortable li.all-content div:nth-child(2) div{ width:100%;padding-top:45px;height:60px;border-bottom:1px solid #4f4f4f;}
+#rs_sortable li.all-content div:nth-child(2) div:first-child{ padding-top:10px;height:30px;}
+#rs_sortable li.all-content div:nth-child(2) div:last-child{ padding-top:20px;height:20px; border-bottom:none;}
+#rs_sortable li:hover { opacity: 1; transition: opacity 0.3s ease-out; -webkit-transition: opacity 0.3s ease-out;}
+/* Joomla! 25 Fix */
+.span3{ float:left; width:24%;}
+.span4{ float:left; width:31%;}
+/* End Joomla! 25 Fix */
+

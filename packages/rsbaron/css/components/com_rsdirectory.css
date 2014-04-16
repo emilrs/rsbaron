@@ -1,0 +1,185 @@
+/* General RSDirectory! Rules */
+.media-heading {
+	margin:0px;
+	padding:0px;
+	font-size:30px;
+	line-height:32px;
+}
+#rstpl-com_rsdirectory {
+	font-weight:400;
+}
+#rstpl-com_rsdirectory  [class^="icon-"], #rstpl-com_rsdirectory  [class*=" icon-"] {
+	font-family:"IcoMoon";
+}
+.rsdir a, .rsdir a:hover, .rsdir a:focus{
+	text-decoration:none;
+}
+/* End General RSDirectory! Rules */
+/* Categories list */
+.rsdir-categories-list h4 {
+	font-size:30px;
+	line-height:32px;
+}
+.rsdir-categories-list h5 {
+	font-size:26px;
+	line-height:28px;
+}
+.rsdir-categories > div{
+	margin:0 0 30px 0;
+}
+.rsdir-listing-images-count{
+	font-weight:700;
+}
+/* End Categories list */
+/* Buy Credits */
+.rstpl-rememberme-checkbox {
+	padding:0;
+	display:block !important;
+	margin:0 0 20px 0;
+}
+.rstpl-rememberme-checkbox input {
+	padding:0px;
+	margin:0px;
+}
+/* End Buy Credits */
+/* Transaction Details */
+#rstpl-com_rsdirectory .rsdir-entry, .rsdir-credit-package {
+	margin: 10px 0;
+    padding: 20px 0;
+}
+#rstpl-com_rsdirectory .rsdir-entry, .rsdir-credit-package p{
+    margin:0px;
+}
+#rstpl-com_rsdirectory .rsdir-credit-package  label.radio {
+	margin:0px;
+	padding:0px;
+}
+#rstpl-com_rsdirectory .rsdir-credit-package  label.radio strong {
+	font-size:16px;
+	font-weight:700;
+}
+
+/* End Transaction Details */
+/* Add Entry */
+.rstpl-form-rsdir fieldset{
+	margin:0 0 30px 0;
+}
+.rsdir-field {
+	width:50%;
+}
+#rstpl-com_rsdirectory .rsdir-images-list .rsdir-delete-file{
+	padding:0px;
+}
+/* End Add Entry View */
+
+/* Entry List View */
+.rsdir-filter-bar {
+	margin-bottom:30px;
+}
+.rsdir-listing-title {
+	font-size:20px;
+	margin:0px;
+}
+.rsdir-listing-big-subtitle{
+	font-size:18px;
+	margin:0px;
+}
+.rsdir-listing-promoted {
+	border:2px solid;
+}
+.rsdir-listing-rating-wrap {
+	text-align:center;
+}
+.rsdir-listing-actions {
+	padding:10px 0 7px 7px;
+	left:0px;
+}
+
+/* End Entry List View */
+/* Entry View */
+.rsdir .page-header {
+	margin:0 0 25px 0;
+	padding:0px;
+}
+.rsdir .breadcrumb {
+	margin:0 0 25px 0;
+	padding:0px;
+	background:none;
+}
+.rsdir .breadcrumb li{
+	font-size:14px;
+}
+#rstpl-com_rsdirectory .rsdir h1,#rstpl-com_rsdirectory .rsdir h2, #rstpl-com_rsdirectory .rsdir h3, #rstpl-com_rsdirectory .rsdir h4, #rstpl-com_rsdirectory .rsdir h5, #rstpl-com_rsdirectory .rsdir h6 {
+	font-weight:400;
+	padding:0px;
+	margin:0 0 10px 0;
+}
+#rstpl-com_rsdirectory .rsdir .rsdir-detail-section-title {
+	font-size:28px;
+	margin:30px 0;
+	padding-bottom:10px;
+}
+.rsdir-listing-small-subtitle {
+  font-size: 16px;
+  margin: 5px 0;
+}
+#rstpl-com_rsdirectory .control-group{
+	font-weight:400;
+	font-size:14px;
+}
+#rstpl-com_rsdirectory .control-group  strong{
+	display: block;
+	float: left;
+	font-weight: 400;
+	width: 51%;
+}
+
+#rstpl-com_rsdirectory #rsdir-big-thumbs .thumbnail {
+	padding:10px;
+	border-radius:0px;
+	text-align:center;
+}
+#rsdir-gallery > div.thumbnails{
+	margin-left:0px !important;
+}
+#rstpl-details .page-header {
+	margin-top:0px;
+}
+.rstpl-label-promoted {
+	padding:8px;
+	font-size:14px;
+}
+.rsdir-detail-rating {
+	width:auto !important;
+}
+.rsdir-listing-price-label, .rsdir-detail-price-label {
+	color:#EFEFEF;
+}
+.rsdir-detail-section, .rsdir-detail-section-title {
+	border:none;
+}
+#rstpl-com_rsdirectory h3, #rstpl-com_rsdirectory h4,  #rstpl-com_rsdirectory h5 {
+	margin:15px 0;
+} 
+/* End Entry View */
+/* Map Radius Search View */
+.control-group .rsdir-placeholders {
+	margin-left:57px !important;
+}
+/* End Map Radius Search View */
+/* My Account */
+#rstpl-transaction-details {
+	font-size:14px;
+}
+#rsdir-radius-search .add-on, #rstpl-com_rsdirectory .add-on {
+	font-size: 16px;
+	line-height: 22px;
+	min-height: 30px;
+}
+/* End My Account */
+
+.rsdir-newest-entry-price, .rsdir-popular-entry-price, .rsdir-related-entry-price, .rsdir-recently-visited-entry-price, .rsdir-top-rated-entry-price{
+	background:none;
+	margin:0px;
+	padding:0px;
+}

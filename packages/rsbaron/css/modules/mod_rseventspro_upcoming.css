@@ -1,0 +1,49 @@
+/* Upcoming Events Module */
+.rstpl-upcoming {
+	padding:10px 10%; 
+	margin-left: -2.5%;
+}
+.rstpl-event-padding {
+	padding:4px 10px;
+}
+.rstpl-event-container {
+	max-width: 200px;
+	overflow:hidden;
+	cursor:pointer;
+	margin-bottom:10px;
+}
+
+.rstpl-event-container:hover > .rstpl-event-image-cropped {
+	-webkit-backface-visibility: hidden;
+}
+.rstpl-event-image-cropped {
+	max-width: 200px;
+    background-position: center;
+    background-size: cover;
+	-webkit-backface-visibility: hidden;
+}
+.rstpl-event-details > h4 {
+	font-family: 'Arial';
+	text-align:center;
+	font-size:14px;
+	font-weight:bold;
+}
+.rstpl-event-details > p {
+	margin:5px 0px;
+}
+.rstpl-event-details {
+	font-size:12px;
+	text-align:center;
+}
+.rstpl-event-details > .rstpl-event-date-cont {
+	padding:0px 10px;
+	font-size:10px;
+	line-height:12px;
+}
+
+@media (max-width: 767px) {
+	.rstpl-upcoming {
+		margin-left: -5.5%;
+	}
+}
+/* Upcoming Events Module */

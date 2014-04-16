@@ -1,0 +1,8 @@
+ul.rsepro_categories {
+	margin: 0 0 10px 25px !important;
+}
+ul.rsepro_categories  > li > h4 {
+	margin:0px;
+	font-weight:400;
+	font-size:14px;
+}

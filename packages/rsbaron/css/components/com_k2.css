@@ -1,0 +1,88 @@
+#rstpl-com_k2 * {
+	font-weight:400;
+}
+#rstpl-com_k2 div.itemAuthorBlock{
+	background:none;
+	border:none;
+}
+#rstpl-com_k2 div.itemAuthorBlock, #rstpl-com_k2 div.itemAuthorLatest{
+	width:50%;
+	float:left;
+}
+
+#rstpl-com_k2 div.itemAuthorLatest ul {
+	margin:0;
+	padding:0;
+}
+#rstpl-com_k2 div.itemAuthorLatest ul li{
+	list-style:none;
+	background:none;
+	border:none;
+	padding:5px 0;
+}
+#rstpl-com_k2 div.itemNavigation{
+	border:none;
+	background:none;
+	padding:5px 0;	
+}
+#rstpl-com_k2 div.itemCommentsForm p.itemCommentsFormNotes{
+	border:none;
+	font-size:12px;
+}
+#rstpl-com_k2 div.itemCommentsForm form input#submitCommentButton{
+	padding:8px 10px;
+}
+#rstpl-com_k2 div.itemCommentsForm form span#formLog{
+	padding:0;
+	margin:10px 0;
+	display:block;
+}
+#rstpl-com_k2 div.itemComments ul.itemCommentsList li{
+	padding:8px;
+	margin:10px 0;
+}
+#rstpl-com_k2 div.itemComments ul.itemCommentsList li img{
+	width:64px;
+	margin:0 8px 8px 0;
+}
+.rstpl-tmpl-component #k2FrontendEditToolbar h2 {
+	background:none;
+}
+.rstpl-tmpl-component .inputbox{
+	float:left;
+}
+.rstpl-tmpl-component .icon-save{
+	background-position: -288px 0;
+}
+#rstpl-com_k2 div.userBlock{
+	background:none;
+	border:none;
+}
+#rstpl-com_k2 span.userItemAddLink{
+	border:none;
+	margin:0 0 8px 0;
+}
+#rstpl-com_k2 div.userItemTagsBlock, #rstpl-com_k2 div.userItemCategory{
+	border:none;
+	width:50%;
+	float:left;
+	margin:0;
+	padding:0;
+}
+#rstpl-com_k2 div.userItemCommentsLink, #rstpl-com_k2 div.userItemReadMore{
+	border:none;
+	float:left;
+	width:50%;
+	margin:0;
+	padding:0;
+}
+#rstpl-com_k2 div.userItemView{
+	margin: 0 0 50px 0;
+}
+#rstpl-com_k2 span.userItemEditLink {
+	float: left;
+	line-height: 20px;
+	margin: 0 10px 0 0;
+	padding: 0;
+	width: auto;
+}

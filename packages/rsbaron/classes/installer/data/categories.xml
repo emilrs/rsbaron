@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<order>0</order>
+	<item>
+		<extension>com_content</extension>
+		<title>Uncategorised</title>
+		<alias>uncategorised</alias>
+		<asset_id>27</asset_id>
+		<note></note>
+		<description></description>
+		<params><![CDATA[{"category_layout":"","image":""}]]></params>
+		<metadata><![CDATA[{"author":"","robots":"","tags":null}]]></metadata>
+	</item>
+	<item>
+		<extension>com_contact</extension>
+		<title>Uncategorised</title>
+		<alias>uncategorised</alias>
+		<asset_id>29</asset_id>
+		<note></note>
+		<description></description>
+		<params><![CDATA[{"category_layout":"","image":""}]]></params>
+		<metadata><![CDATA[{"author":"","robots":"","tags":null}]]></metadata>
+	</item>
+	<item>
+		<extension>com_content</extension>
+		<title>Services</title>
+		<alias>services</alias>
+		<note></note>
+		<description><![CDATA[<div class="row-fluid"><div class="span4">[box id="Adaptive_Design" boxtype="simple-vertical-icon" class="rstpl-box-thumb-top rstpl-padding"] [icon]icon-stack[/icon] [title]Adaptive Design[/title] [text]The field is considered a subset of visual communication and communication design, but sometimes the term "graphic design" is used interchangeably with these due to overlapping skills involved. <br /> Graphic designers use various methods to create and combine words, symbols, and images to create a visual representation of ideas and messages. [/text] [button href="index.php/services/4-adaptive-design"]Read more[/button] [/box]</div><div class="span4">[box id="Web_Apps" boxtype="simple-vertical-icon" class="rstpl-box-thumb-top rstpl-padding"] [icon]icon-code[/icon] [title]Web Apps[/title] [text]A web application or web app is any application software that runs in a web browser or is created in a browser-supported programming language (such as the combination of JavaScript, HTML and CSS) and relies on a common web browser to render the application.<br /> Web applications are popular due to the ubiquity of web browsers.[/text] [button href="index.php/services/5-web-apps"]Read more[/button] [/box]</div><div class="span4">[box id="Lead_generation_" boxtype="simple-vertical-icon" class="rstpl-box-thumb-top rstpl-padding"] [icon]icon-cart3[/icon] [title]Lead Generation [/title] [text]In marketing, lead generation is the generation of consumer interest or inquiry into products or services of a business.<br /> Leads can be generated for purposes such as list building, e-newsletter list acquisition or for sales leads. The methods for generating leads typically fall under the umbrella of advertising, but may also include non-paid or paid sources.[/text] [button href="index.php/services/6-lead-generation"]Read more[/button] [/box]</div></div><br /><h2>Our <strong>pricing plans</strong></h2><br /><div class="row-fluid"><div class="span3">[box id="Startup_Plan" boxtype="price" class="rstpl-box-price"] [title]Startup Plan[/title] [price]19<sup>.99 €</sup>[/price] [text]Monthly billing <br /> 24/7 Online support[/text] [button href="http://www.rsjoomla.com/"]Buy Now[/button] [feature]Ticketing support[/feature] [feature]Email support[/feature] [feature]Traffic 1 GB[/feature] [feature]Email Configuration[/feature] [feature]500 MB Storage[/feature] [/box]</div><div class="span3">[box id="Regular_Plan" boxtype="price" class="rstpl-box-price"] [title]Regular Plan[/title] [price]39<sup>.99 €</sup>[/price] [text]Monthly billing <br /> 24/7 Online support[/text] [button href="http://www.rsjoomla.com/"]Buy Now[/button] [feature]Ticketing support[/feature] [feature]Email support[/feature] [feature]Traffic 4 GB[/feature] [feature]Email Configuration[/feature] [feature] 2000 MB Storage[/feature] [/box]</div><div class="span3">[box id="Plus_Plan" boxtype="price-highlight" class="rstpl-box-price highlight"] [title]Plus Plan[/title] [price]89<sup>.99 €</sup>[/price] [text]Monthly billing<br /> 24/7 Online Support[/text] [button href="http://www.rsjoomla.com/"]Buy Now[/button] [feature]Ticketing support[/feature] [feature]Email support[/feature] [feature]Traffic 10 GB[/feature] [feature]Email Configuration[/feature] [feature]5000 MB Storage[/feature] [/box]</div><div class="span3">[box id="Premium_Plan" boxtype="price" class="rstpl-box-price"] [title]Premium Plan[/title] [price]299<sup>.99 €</sup>[/price] [text]Monthly billing <br /> 24/7 Online support[/text] [button href="http://www.rsjoomla.com/"]Buy Now[/button] [feature]Ticketing support[/feature] [feature]Email support[/feature] [feature]Traffic 50 GB[/feature] [feature]Email Configuration[/feature] [feature]10000 MB Storage[/feature] [/box]</div></div>]]></description>
+		<params><![CDATA[{"category_layout":"","image":""}]]></params>
+		<metadata><![CDATA[{"author":"","robots":"","tags":null}]]></metadata>
+	</item>
+	<item>
+		<extension>com_content</extension>
+		<title>News</title>
+		<alias>news</alias>
+		<note></note>
+		<description></description>
+		<params><![CDATA[{"category_layout":"","image":""}]]></params>
+		<metadata><![CDATA[{"author":"","robots":"","tags":null}]]></metadata>
+	</item>
+</items>

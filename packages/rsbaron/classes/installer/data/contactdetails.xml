@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<order>2</order>
+	<item>
+		<name>Contact</name>
+		<alias>contact</alias>
+		<address>CA 91755-1811</address>
+		<suburb>Monterey Park</suburb>
+		<postcode>905214</postcode>
+		<telephone>(626) 288-8613</telephone>
+		<fax>+1-212-9876543</fax>
+		<email_to>email@domain.com</email_to>
+		<ordering>1</ordering>
+		<params><![CDATA[{"show_contact_category":"","show_contact_list":"","presentation_style":"","show_tags":"","show_name":"","show_position":"","show_email":"","show_street_address":"","show_suburb":"","show_state":"","show_postcode":"","show_country":"","show_telephone":"","show_mobile":"","show_fax":"","show_webpage":"","show_misc":"","show_image":"","allow_vcard":"","show_articles":"","show_profile":"","show_links":"","linka_name":"","linka":false,"linkb_name":"","linkb":false,"linkc_name":"","linkc":false,"linkd_name":"","linkd":false,"linke_name":"","linke":"","contact_layout":"","show_email_form":"","show_email_copy":"","banned_email":"","banned_subject":"","banned_text":"","validate_session":"","custom_reply":"","redirect":""}]]></params>
+		<cat_id>uncategorised</cat_id>
+		<extension>com_contact</extension>
+		<mobile>(634) 287-8612</mobile>
+		<webpage>http://www.example.com</webpage>
+		<metadata><![CDATA[{"robots":"","rights":"","tags":null}]]></metadata>
+	</item>
+</items>

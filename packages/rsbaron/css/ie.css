@@ -1,0 +1,46 @@
+ul.nav li.dropdown:hover > ul.dropdown-menu{
+		display: block;    
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-submenu:hover > a, .dropdown-submenu:focus > a {
+	filter:none;
+}
+.dropdown-menu .active > a:hover, .dropdown-menu .active > a {
+	filter:none;
+}
+
+.main-menu {
+	height:89px;
+}
+.main-menu .menu li a{
+	line-height:41px;
+	padding:23px 28px;
+}
+.main-menu .dropdown-menu li a{
+	line-height:22px;
+	padding:5px 5px;
+}
+
+.dropdown-menu   .parent  .dropdown-menu {
+	display: none;
+}
+
+.navbar-fixed-top .nav > li > a:hover,
+.navbar-fixed-top .nav > li > a:focus,
+.navbar-fixed-top .nav > li > a:active,
+.navbar-fixed-top .nav > .active > a,
+.navbar-fixed-top .nav > .active > a:hover,
+.navbar-fixed-top .nav > .active > a:focus {
+	background: none !important;
+}
+.navbar-fixed-top {
+	height:84px;
+}
+.container {
+	width:1170px !important;
+}
+.body {
+	min-width:1170px !important;
+}

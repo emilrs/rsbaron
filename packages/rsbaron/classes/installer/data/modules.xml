@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<order>5</order>
+	<item>
+		<title>RSBaron! Main Menu</title>
+		<note></note>
+		<content></content>
+		<position>main-menu</position>
+		<module>mod_menu</module>
+		<params><![CDATA[{"menutype":"rsmainmenu","base":"","startLevel":"1","endLevel":"0","showAllChildren":"1","tag_id":"","class_sfx":"","window_open":"","layout":"rsbaron:responsive","moduleclass_sfx":"_menu","cache":"1","cache_time":"900","cachemode":"itemid","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+	</item>
+	<item>
+		<title>Login Form</title>
+		<note></note>
+		<content></content>
+		<position>column-right</position>
+		<module>mod_login</module>
+		<params><![CDATA[{"pretext":"","posttext":"","login":"","logout":"","greeting":"1","name":"0","usesecure":"0","usetext":"0","layout":"_:default","moduleclass_sfx":"","cache":"0","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>1</showtitle>
+		<menuid><![CDATA[{"ids":["-idmenu11","-idmenu10","-idmenu3"]}]]></menuid>
+	</item>
+	<item>
+		<title>Breadcrumbs</title>
+		<note></note>
+		<content></content>
+		<position>breadcrumbs</position>
+		<module>mod_breadcrumbs</module>
+		<params><![CDATA[{"showHere":"1","showHome":"1","homeText":"","showLast":"1","separator":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"itemid","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["-idmenu11","-idmenu3","-idmenu1"]}]]></menuid>
+	</item>
+	<item>
+		<title>Search</title>
+		<note></note>
+		<content></content>
+		<position>top-c</position>
+		<module>mod_search</module>
+		<params><![CDATA[{"label":"","width":"20","text":"","button":"0","button_pos":"right","imagebutton":"1","button_text":"","opensearch":"1","opensearch_title":"","set_itemid":"0","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"itemid","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+	</item>
+	<item>
+		<title>RSMediaGallery! Responsive Slideshow Module</title>
+		<note></note>
+		<content></content>
+		<position>slideshow</position>
+		<module>mod_rsmediagallery_responsive_slideshow</module>
+		<params><![CDATA[{"tags":"slideshow,","thumb_resolution":["w","1110"],"autoplay":"1","stop_over":"1","show_controls":"1","center_element":"1","interval":"5500","items_per_slide":"1","slider_effect":"slide","show_title":"0","show_description":"0","use_original":"1","ordering":"ordering","direction":"asc","limit":"3","open_in_new_page":"0","moduleclass_sfx":"rstpl-fullwidth","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu1"]}]]></menuid>
+	</item>
+	<item>
+		<title>Featured A</title>
+		<note></note>
+		<content><![CDATA[[box id="Strategy" boxtype="top-featured-dark-strong" class="rstpl-box-dark-strong rstpl-padding"] [icon]icon-library[/icon] [title]Strategy[/title] [text]Starting from a simple idea can lead to a finished business foundation. Strategy and planning is important because the resources available to achieve these goals are usually limited.[/text] [button href="index.php/news/7-strategy"]Read more[/button] [/box]]]></content>
+		<position>featured-a</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu1","idmenu11"]}]]></menuid>
+	</item>
+	<item>
+		<title>Featured B</title>
+		<note></note>
+		<content><![CDATA[[box id="Experience" boxtype="top-featured-dark-medium" class="rstpl-box-dark-medium rstpl-padding"] [icon]icon-books[/icon] [title]Experience[/title] [text]Crucial part in building your projects to allow everyone having a natural flow. Some wisdom-experience accumulates over a period of time and its always a good practice in receiving guidance.[/text] [button href="index.php/news/8-experience"]Read more[/button] [/box]]]></content>
+		<position>featured-b</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu1","idmenu11"]}]]></menuid>
+	</item>
+	<item>
+		<title>Featured C</title>
+		<note></note>
+		<content><![CDATA[[box id="Design" boxtype="top-featured-dark-light" class="rstpl-box-dark-light rstpl-padding"] [icon]icon-newspaper[/icon] [title]Design[/title] [text]Ensuring that you website is visually gorgeous is more then just adding pixels. Defining the specifications, plans, parameters, costs and activities is merely a small part compared to the final outcome.[/text] [button href="index.php/news/9-design"]Read more[/button] [/box]]]></content>
+		<position>featured-c</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu1","idmenu11"]}]]></menuid>
+	</item>
+	<item>
+		<title>Footer</title>
+		<note></note>
+		<content><![CDATA[<p>[box id="rstpl-random-id-1394" boxtype="full-width-dark-vertical-icon" class="rstpl-box-big-icon-center rstpl-padding m-bot-large"] [icon]icon-eye[/icon] [text]“Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.”[/text] [/box]</p>]]></content>
+		<position>footer</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["-idmenu2"]}]]></menuid>
+	</item>
+	<item>
+		<title>Features</title>
+		<note></note>
+		<content><![CDATA[<ul><li><a href="http://www.joomla.org" target="_blank">Joomla! 2.5</a> and <a href="http://www.joomla.org/3" target="_blank">Joomla! 3.x</a> compatibility</li><li>Built with <a href="http://getbootstrap.com/2.3.2/">Bootstrap</a></li><li>Animated Shortcodes</li><li>Easy <a href="index.php/shortcodes">Shortcodes</a> Implementation</li><li>Modern Design</li><li>Arrangeable Template Positions</li><li>Color Schemes</li><li>Social Links</li></ul>]]></content>
+		<position>footer-fluid-b</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>1</showtitle>
+	</item>
+	<item>
+		<title>Top Full Width</title>
+		<note></note>
+		<content><![CDATA[[box id="Design_involves_problem_solving_and_creativity_" boxtype="full-width-horizontal" class="rstpl-box-full-width rstpl-padding pull-left row-fluid"] [icon]icon-shuffle[/icon] [title]Design involves problem solving and creativity.[/title] [text]In theory, the plan should anticipate and compensate for potential problems in the execution process.[/text] [button href="index.php/news/9-design"]FIND OUT MORE[/button] [/box]]]></content>
+		<position>top-full-width</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu1","idmenu11"]}]]></menuid>
+	</item>
+	<item>
+		<title>Testimonials</title>
+		<note></note>
+		<content><![CDATA[[carousel id="CLIENT_TESTIMONIALS1394" items="1" heading="CLIENT TESTIMONIALS"] [image] <img src="templates/rsbaron/images/sampledata/images/100x100-3.jpg" alt="" width="120" height="120" /> [/image] [text]This awesome service has reduced the burden of data collection. It is a must have for any site.[/text] [image] <img src="templates/rsbaron/images/sampledata/images/100x100-2.jpg" alt="" width="120" height="120" /> [/image] [text]Used it since it's available and won't use anything else. Use interface is well structured and more features coming with every update.[/text] [/carousel]]]></content>
+		<position>after-content</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu1","idmenu11"]}]]></menuid>
+	</item>
+	<item>
+		<title>Tabs</title>
+		<note></note>
+		<content><![CDATA[[tabs id="Web_Tabs1394" heading="Web Tabs"] [tab title="Composition" tabid="Composition"][box id="Responsive_Web_Design" boxtype="simple-horizontal-image" class="rstpl-box-image-left"] [image]<img src="templates/rsbaron/images/sampledata/images/prjslider2.jpg" alt="" width="270" height="160" />[/image] [title]Responsive Web Design[/title] [text]Web design approach aimed at crafting sites to provide optimal viewing experience.<br /><br />Easy reading/navigation with a minimum of resizing, panning, and scrolling.<br />A site designed with <em>RWD</em> adapts the layout to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS3 media queries, an extension of the @media rule.[/text] [/box][/tab] [tab title="Motion graphics" tabid="Motion_graphics"]The choice of whether or not to use motion graphics may depend on the target market for the website. Motion graphics may be expected or at least better received with an entertainment-oriented website. However, a website target audience with a more serious or formal interest (such as business, community, or government) might find animations unnecessary and distracting if only for entertainment or decoration purposes.[/tab] [tab title="Quality of code" tabid="Quality_of_code"]Website designers may consider it to be good practice to conform to standards. This is usually done via a description specifying what the element is doing. Failure to conform to standards may not make a website unusable or error prone, but standards can relate to the correct layout of pages for readability as well making sure coded elements are closed appropriately. This includes errors in code, more organized layout for code, and making sure IDs and classes are identified properly.[/tab] [/tabs]]]></content>
+		<position>bottom-fluid-b</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu1","idmenu11"]}]]></menuid>
+	</item>
+	<item>
+		<title>Accordion Effect</title>
+		<note></note>
+		<content><![CDATA[[accordions id="Accordion_Effect1394" heading="Accordion Effect"] [accordion title="Marketing and communication design" accordionid="Marketing_and_communication_design"]Marketing and communication design on a website may identify what works for its target market. This can be an age group or particular strand of culture; thus the designer may understand the trends of its audience.[/accordion] [accordion title="User experience design and interactive design" accordionid="User_experience_design_and_interactive_design"]Users understanding the content of a website often depends on users understanding how the website works. This is part of the user experience design. User experience is related to layout, clear instructions and labeling on a website. How well a user understands how they can interact on a site may also depend on the interactive design of the site. If a user perceives the usefulness of that website, they are more likely to continue using it.[/accordion] [accordion title="Page layout techniques" accordionid="Page_layout_techniques"]Part of the user interface design is affected by the quality of the page layout. For example, a designer may consider if the sites page layout should remain consistent on different pages when designing the layout. Page pixel width may also be considered vital for aligning objects in the layout design.[/accordion] [/accordions]]]></content>
+		<position>bottom-fluid-a</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu1","idmenu11"]}]]></menuid>
+	</item>
+	<item>
+		<title>Full Width Shortcode</title>
+		<note></note>
+		<content><![CDATA[[box id="Modern_Browser_Compatibility" boxtype="full-width-dark-vertical-image" class="rstpl-box-big-img rstpl-padding"] [image]<img src="templates/rsbaron/images/sampledata/images/box-big-image.png" alt="" />[/image] [title]Modern Browser Compatibility[/title] [button href="http://www.rsjoomla.com/"]FIND OUT MORE[/button] [/box][box id="Want_to_develop_the_best_website_on_the_internet" boxtype="full-width-dark-horizontal-image" class="rstpl-box-small-img m-bot-large"] [image]<img src="templates/rsbaron/images/sampledata/images/300x300-4.jpg" alt="" />[/image] [title]Want to develop the best website on the internet ?[/title] [text]Either you want a form builder, a blog, subscriptions manager, ticketing system or file manager or you simply care about your website security, all you have to do is to check out our Extensions page. <br /> If you only want to improve your website design you can check out our Templates section.[/text] [button href="http://www.rsjoomla.com/joomla-templates.html"]Templates[/button] [button href="http://www.rsjoomla.com/joomla-extensions.html"]Extensions[/button] [/box]]]></content>
+		<position>middle</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu1","idmenu2","idmenu11"]}]]></menuid>
+	</item>
+	<item>
+		<title>Thumb 1</title>
+		<note></note>
+		<content><![CDATA[[box id="Email_Marketing" boxtype="simple-horizontal-image" class="rstpl-box-image-left m-bot-large"] [image]<img src="templates/rsbaron/images/sampledata/images/100x100-1.jpg" alt="" width="100" height="100" />[/image] [title]Email Marketing[/title] [text]Email solutions for big brands and online retailers offer a fast and effective marketing process.[/text] [/box]]]></content>
+		<position>bottom-fluid-a</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu8"]}]]></menuid>
+	</item>
+	<item>
+		<title>Thumb 2</title>
+		<note></note>
+		<content><![CDATA[[box id="Resource_Centre" boxtype="simple-horizontal-image" class="rstpl-box-image-left m-bot-large"] [image]<img src="templates/rsbaron/images/sampledata/images/100x100-5.jpg" alt="" width="100" height="100" />[/image] [title]Resource Centre[/title] [text]A pattern of resource use, that aims to meet needs while preserving the environment.[/text] [/box]]]></content>
+		<position>bottom-fluid-b</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu8"]}]]></menuid>
+	</item>
+	<item>
+		<title>Thumb 3</title>
+		<note></note>
+		<content><![CDATA[[box id="Digital_Consultancy" boxtype="simple-horizontal-image" class="rstpl-box-image-left"] [image]<img src="templates/rsbaron/images/sampledata/images/100x100-4.jpg" alt="" width="100" height="100" />[/image] [title]Digital Consultancy[/title] [text]Consultants are engaged to fulfil a brief in terms of helping to find solutions to specific issues.[/text] [/box]]]></content>
+		<position>bottom-fluid-c</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu8"]}]]></menuid>
+	</item>
+	<item>
+		<title>Adaptive Design</title>
+		<note></note>
+		<content><![CDATA[[box id="Adaptive_Design" boxtype="simple-vertical-icon" class="rstpl-box-thumb-top rstpl-padding"] [icon]icon-stack[/icon] [title]Adaptive Design[/title] [text]The field is considered a subset of visual communication and communication design, but sometimes the term "graphic design" is used interchangeably with these due to overlapping skills involved. <br /> Graphic designers use various methods to create and combine words, symbols, and images to create a visual representation of ideas and messages. [/text] [button href="index.php/services/4-graphic-design"]Read more[/button] [/box]]]></content>
+		<position>middle-fluid-a</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu1","idmenu11"]}]]></menuid>
+	</item>
+	<item>
+		<title>Lead generation</title>
+		<note></note>
+		<content><![CDATA[[box id="Lead_generation_" boxtype="simple-vertical-icon" class="rstpl-box-thumb-top rstpl-padding"] [icon]icon-cart3[/icon] [title]Lead generation [/title] [text]In marketing, lead generation is the generation of consumer interest or inquiry into products or services of a business.<br /> Leads can be generated for purposes such as list building, e-newsletter list acquisition or for sales leads. The methods for generating leads typically fall under the umbrella of advertising, but may also include non-paid or paid sources.[/text] [button href="index.php/services/6-lead-generation"]Read more[/button] [/box]]]></content>
+		<position>middle-fluid-c</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu1","idmenu11"]}]]></menuid>
+	</item>
+	<item>
+		<title>Web Apps</title>
+		<note></note>
+		<content><![CDATA[[box id="Web_Apps" boxtype="simple-vertical-icon" class="rstpl-box-thumb-top rstpl-padding"] [icon]icon-code[/icon] [title]Web Apps[/title] [text]A web application or web app is any application software that runs in a web browser or is created in a browser-supported programming language (such as the combination of JavaScript, HTML and CSS) and relies on a common web browser to render the application.<br /> Web applications are popular due to the ubiquity of web browsers.[/text] [button href="index.php/services/5-web-apps"]Read more[/button] [/box]]]></content>
+		<position>middle-fluid-b</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu1","idmenu11"]}]]></menuid>
+	</item>
+	<item>
+		<title>Browse</title>
+		<note></note>
+		<content></content>
+		<position>column-right</position>
+		<module>mod_menu</module>
+		<params><![CDATA[{"menutype":"browse","base":"","startLevel":"1","endLevel":"0","showAllChildren":"1","tag_id":"","class_sfx":"","window_open":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"itemid","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>1</showtitle>
+		<menuid><![CDATA[{"ids":["-idmenu3","-idmenu10","-idmenu11"]}]]></menuid>
+	</item>
+	<item>
+		<title>Copyright</title>
+		<note></note>
+		<content><![CDATA[<p>Copyright © 2014 RSBaron!. All Rights Reserved. <a href="http://www.joomla.org/">Joomla!</a> is Free Software released under the <a href="http://www.gnu.org/licenses/gpl-2.0.html">GNU General Public License</a>.</p><p>The Joomla!® name and logo is used under a limited license granted by <a href="http://opensourcematters.org/">Open Source Matters</a> the trademark holder in the United States and other countries.</p>]]></content>
+		<position>footer-fluid-a</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>1</showtitle>
+	</item>
+	<item>
+		<title>Useful Links</title>
+		<note></note>
+		<content><![CDATA[<ul><li><a href="http://www.rsjoomla.com/joomla-templates/rsbaron.html" target="_blank">Buy RSBaron!</a></li><li>Read the <a href="http://www.rsjoomla.com/support/documentation/view-knowledgebase/214-rsbaron.html" target="_blank">Manual</a></li><li>Watch <a href="http://www.rsjoomla.com/joomla-templates/rsbaron.html" target="_blank">Video Presentation</a></li><li>Next Steps: <a href="http://www.rsjoomla.com/support/documentation/view-knowledgebase/215-getting-started.html" target="_blank">Getting Started</a> Section</li><li>Read the <a href="http://www.rsjoomla.com/blog.html" target="_blank">Blog Post</a></li><li>Our Community <a href="http://www.rsjoomla.com/support/forum.html" target="_blank">Forums</a></li><li><a href="http://www.rsjoomla.com" target="_blank">RSJoomla!</a></li><li>Give a <a href="http://www.rsjoomla.com/feedback.html" target="_blank">Feedback</a></li></ul>]]></content>
+		<position>footer-fluid-c</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>1</showtitle>
+	</item>
+	<item>
+		<title>Intro Shortcodes</title>
+		<note></note>
+		<content><![CDATA[[box id="What_is_a_Shortcode_" boxtype="simple-horizontal-icon" class="rstpl-box-thumb-left m-top-large"] [icon]icon-embed[/icon] [title]What is a Shortcode?[/title] [text]Simplifying the need to manually code, saving precious time, while keeping an impressive visual look. Their layout and style is pre-defined and the only remaining thing to do is merely adding a title, text, picture and so on. Everything else is done by the Shortcode.[/text] [/box]]]></content>
+		<position>slideshow</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu11"]}]]></menuid>
+	</item>
+	
+	<item>
+		<title>Thumb 1 Shortcodes page</title>
+		<note></note>
+		<content><![CDATA[[box id="Email_Marketing" boxtype="simple-horizontal-image" class="rstpl-box-image-left m-bot-large"] [image]<img src="templates/rsbaron/images/sampledata/images/100x100-1.jpg" alt="" width="100" height="100" />[/image] [title]Email Marketing[/title] [text]Email solutions for big brands and online retailers offer a fast and effective marketing process. Email marketing can be done to either sold lists or current customer database.[/text] [/box]]]></content>
+		<position>bottom-fluid-a</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu11"]}]]></menuid>
+	</item>
+	<item>
+		<title>Thumb 2 Shortcodes page</title>
+		<note></note>
+		<content><![CDATA[[box id="Resource_Centre" boxtype="simple-horizontal-image" class="rstpl-box-image-left m-bot-large"] [image]<img src="templates/rsbaron/images/sampledata/images/100x100-5.jpg" alt="" width="100" height="100" />[/image] [title]Resource Centre[/title] [text]A pattern of resource use, that aims to meet needs while preserving the environment. Resource center is a comprehensive source of information on sustainability.[/text] [/box]]]></content>
+		<position>bottom-fluid-b</position>
+		<module>mod_custom</module>
+		<params><![CDATA[{"prepare_content":"0","backgroundimage":"","layout":"_:default","moduleclass_sfx":"","cache":"1","cache_time":"900","cachemode":"static","module_tag":"div","bootstrap_size":"0","header_tag":"h3","header_class":"","style":"0"}]]></params>
+		<client_id>0</client_id>
+		<showtitle>0</showtitle>
+		<menuid><![CDATA[{"ids":["idmenu11"]}]]></menuid>
+	</item>
+	
+</items>

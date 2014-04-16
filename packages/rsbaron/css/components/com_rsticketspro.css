@@ -1,0 +1,66 @@
+.rst_heading {
+	margin-top:30px;
+}
+#ticket-buttons, #rstpl-com_rsticketspro h1,#rstpl-com_rsticketspro h2, #rstpl-com_rsticketspro h3, #rstpl-com_rsticketspro h4 {
+	margin-bottom:30px;
+}
+#rstpl-com_rsticketspro .well {
+	background:none;
+	border:none;
+	box-shadow:none;
+}
+.rst_dashboard_items li .thumbnail a img {
+	display:none;
+}
+.rst_dashboard_items li .thumbnail > a {
+	margin-top:30px;
+}
+.rst_dashboard_items li:first-child .thumbnail > a:before {
+    font-family: 'IcoMoon';
+	content: '\e657';
+	font-size:48px;
+}
+.rst_dashboard_items li:nth-child(2) .thumbnail > a:before {
+    font-family: 'IcoMoon';
+	content: '\e60c';
+	font-size:48px;
+}
+.rst_dashboard_items li:nth-child(3) .thumbnail > a:before {
+    font-family: 'IcoMoon';
+	content: '\e67f';
+	font-size:48px;
+}
+
+.rst_dashboard_kb strong img, .rst_categories strong img {
+	display:none;
+}
+.rst_dashboard_kb strong a:before, .rst_categories strong a:before{
+	font-family: 'IcoMoon';
+	content: '\e616';
+	font-size:18px;
+	margin-right:8px;
+}
+#rstpl-com_rsticketspro .panel .title {
+	margin-bottom:0px;
+}
+.modal_jform_customer_id {
+	display: block;
+	float: left;
+	margin-left: 10px;
+}
+#rstpl-com_rsticketspro ul.config-option-list > li {
+	margin-top:30px !important;
+}
+#rstpl-com_rsticketspro ul.config-option-list > li > fieldset > label {
+	margin:0px;
+}
+#rstpl-com_rsticketspro ul.config-option-list > li > .button2-left {
+	margin:3px;
+	float:left;
+}
+#rstpl-com_rsticketspro #rsticketspro_searchinp{
+	padding:6px;
+}
+#rstpl-com_rsticketspro .icon-menu-2, #rstpl-com_rsticketspro .icon-downarrow, #rstpl-com_rsticketspro .icon-uparrow{
+	font-family:"IcoMoon";
+}

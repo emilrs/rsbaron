@@ -1,0 +1,36 @@
+#rstpl-com_contact h2{
+	margin-bottom:30px;
+}
+#rstpl-com_contact table.category tr td, #rstpl-com_contact table.category tr th{ 
+	border:none;
+}
+
+#rstpl-com_contact .jicons-icons{
+	float:left;
+	margin-right:8px;
+	margin-top:-1px;
+}
+#rstpl-com_contact .contact-links ul li{ 
+	list-style:none;
+	float:left;
+	margin-right:8px;
+}
+#rstpl-com_contact .dl-horizontal dd {
+	margin:0 0 0 30px;
+}
+#rstpl-com_contact .dl-horizontal dt{
+	width:auto;
+}
+#rstpl-com_contact .tags {
+	margin:25px 0;
+}
+#rstpl-com_contact .list-striped li:nth-child(2n+1), .list-striped dd:nth-child(2n+1), .row-striped .row:nth-child(2n+1), .row-striped .row-fluid:nth-child(2n+1){
+	background:none;
+}
+#rstpl-com_contact .page-header{
+	border:none;
+}
+#rstpl-com_contact #contact-form legend{
+	font-size:16px;
+	border:none;
+}

@@ -1,0 +1,62 @@
+#rstpl-com_rsfeedback .form-horizontal .control-label {
+	float:none;
+	text-align:left;
+	display:inherit !important;
+}
+#rstpl-com_rsfeedback .form-horizontal .controls {
+	margin-left: 0px;
+}
+
+#rstpl-com_rsfeedback .navbar .nav > li > a {
+	font-size:14px;
+	text-transform:none;
+	padding:5px 8px;
+	line-height:22px;
+	background:none;
+	box-shadow:none;
+}
+#rstpl-com_rsfeedback .rsfe_navbar_inner div .nav {
+	margin-top:8px !important;
+}
+#rstpl-com_rsfeedback .rsfe_navbar_inner .btn img {
+	margin:0px;
+}
+#rstpl-com_rsfeedback #rsfe_remaining_votes {
+	margin:5px 10px 5px 0;
+	padding:10px;
+}
+#rstpl-com_rsfeedback .rsfeedback_list {
+	margin:20px 0;
+}
+#rstpl-com_rsfeedback .rsfeedback_list h1{
+	margin-bottom:20px;
+}
+.rsfeedback_box {
+	margin:20px 0px;
+}
+#rstpl-com_rsfeedback #rsfe_subscribe_btn, #rstpl-com_rsfeedback .rsfe_flag_link{
+	color:#ffffff;
+}
+#rstpl-com_rsfeedback .form-actions{
+	background:none;
+	border:none;
+}
+#rsfe_commentslist_title, #rsfe_subscribe_btn {
+	margin-top:80px;
+}
+#rsfe_commentslist_title {
+	margin-bottom:50px;
+}
+#rstpl-com_rsfeedback .rsfe_box_title {
+	margin:0px !important;
+}
+#rstpl-modal #rsfe_searchbox {
+	width:84%;
+}
+#rstpl-modal #rsfe_searchbutton{
+	padding:8px 10px;
+}
+#rstpl-modal .rsfe_default_form #rsfe_searchbutton .nav li a{
+	box-shadow:0px;
+	font-size:14px;
+}
